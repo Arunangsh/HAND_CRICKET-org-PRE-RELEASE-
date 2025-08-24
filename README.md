@@ -18,7 +18,7 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/HandCricket2.0.git
+git clone https://github.com/Arunangsh/HAND_CRICKET-org-PRE-RELEASE-.git
 
 
 Navigate to the project folder:
