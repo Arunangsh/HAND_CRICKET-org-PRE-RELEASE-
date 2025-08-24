@@ -1,62 +1,58 @@
 Hand Cricket 2.0 🎮
 
-Hand Cricket 2.0 is a Java-based GUI game where you can play hand cricket against an AI. Features include sound effects, a toss system, and interactive scoring.
+Hand Cricket 2.0 is a fun Java-based GUI game where you can play hand cricket against the computer with sound effects and a toss system.
 
-Features
+How to Run
 
-Graphical User Interface (GUI) game.
+Make sure you have Java 8 or higher installed.
 
-Play as batter or bowler after winning the toss.
+To check, open Command Prompt (Windows) or Terminal (Linux/Mac) and type:
 
-Sound effects for events: SIX, FOUR, OUT, AI/You Won, AI/You Bat/Bowl.
-
-Keeps track of scores and announces the winner.
-
-Works on Windows with included resources.
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/Arunangsh/HAND_CRICKET-org-PRE-RELEASE-.git
+java -version
 
 
-Navigate to the project folder:
+If you don’t have Java, download it from Java Downloads
+.
 
-cd HAND_CRICKET-org-PRE-RELEASE-
+Download the JAR file
+ from this repository.
 
+Double-click the HandCricket2.0.jar file OR run it from terminal/cmd:
 
-Run the JAR file:
-
-java -jar HandCricket.jar
-
-
-⚠️ Make sure you have Java 8 or higher installed on your system.
-
-Project Structure
-HandCricket2.0/
- ├── resources/        # Audio files (SIX.wav, FOUR.wav, etc.)
- ├── HandCricket2.0.jar # Compiled JAR of the game
- ├── README.md          # This file
+java -jar HandCricket2.0.jar
 
 How to Play
 
-Run the JAR file.
+First, you will play a toss (enter heads or tails).
 
-Enter “heads” or “tails” for the toss.
+If you win the toss, you can choose to bat or bowl.
 
-Decide to bat or bowl if you win the toss.
+During the game:
 
-Enter numbers (0-6) during batting or bowling.
+Enter numbers between 0–6 for batting or bowling.
 
-Follow the game prompts to score runs or get the AI out.
+Runs are scored, or wickets fall, depending on your and AI’s inputs.
 
-Enjoy the game and listen to sound effects for feedback.
+Sound effects will play for SIX, FOUR, OUT, WIN/LOSE, Bat/Bowl prompts.
 
-Contributions
+The game continues until one side wins.
 
-Feel free to fork the repo, add features, or fix bugs. Pull requests are welcome!
+Features
+
+✅ GUI with user-friendly interaction
+✅ Toss system with choice to bat/bowl
+✅ Realistic sound effects for match events
+✅ Automatic score tracking and winner announcement
+
+Files in This Repository
+
+HandCricket2.0.jar → Game file to run
+
+resources/ → Contains audio files (SIX, FOUR, OUT, etc.)
+
+README.md → Instructions to play
 
 License
 
-This project is licensed under the MIT License.
+Free to use, share, and improve 🎉
+But mention the credits.
