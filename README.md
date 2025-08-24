@@ -17,9 +17,9 @@ If you don’t have Java, download it from Java Downloads
 Download the JAR file
  from this repository.
 
-Double-click the HandCricket2.0.jar file OR run it from terminal/cmd:
+Double-click the HandCricket.jar file OR run it from terminal/cmd:
 
-java -jar HandCricket2.0.jar
+java -jar HandCricket.jar
 
 How to Play
 
