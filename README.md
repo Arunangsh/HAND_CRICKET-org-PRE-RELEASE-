@@ -23,12 +23,12 @@ git clone https://github.com/Arunangsh/HAND_CRICKET-org-PRE-RELEASE-.git
 
 Navigate to the project folder:
 
-cd HandCricket2.0
+cd HAND_CRICKET-org-PRE-RELEASE-
 
 
 Run the JAR file:
 
-java -jar HandCricket2.0.jar
+java -jar HandCricket.jar
 
 
 ⚠️ Make sure you have Java 8 or higher installed on your system.
